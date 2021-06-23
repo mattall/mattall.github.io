@@ -6,6 +6,95 @@ layout: default
 title: Matthew Nance~Hall
 ---
 
+  <table summary="Address and Photo of Matthew Nance Hall" class=
+  "titlematter">
+    <tr>
+      <td style="padding-right: 4em">
+        <!-- <address>
+         
+        </address> -->
+        
+        <h1>Matthew Nance</h1>
+
+        <address>
+		  <a href="http://onrg.gitlab.io">Oregon Networking Research Group</a><br>
+          <a href="http://cs.uoregon.edu">Computer and Information Science</a><br>
+          <a href="https://univie.ac.at">University of Oregon</a><br>
+		  Deschutes Hall<br>
+          1477 E 13th Ave<br>
+          Eugene, Oregon<br>
+          USA<br>
+        </address>
+
+        <address>
+          email: mhall@cs.uoregon.edu<br>
+          <a href="https://scholar.google.com/citations?hl=en&user=ED-UBG8AAAAJ">Google Scholar</a>,
+          <a href="https://dblp.org/pid/270/6076.html">DBLP</a>,
+		  <a href="https://orcid.org/0000-0002-0802-2920">ORCID</a>, 
+        </address>
+      </td>
+
+      <td valign="middle" align="left"><img height="200" width=
+      "200" alt="Matthew Nance Hall" src=
+      "portait.jpg"></td>
+    </tr>
+  </table>
+
+  <ul class="navi" title="in-site navigation">
+    <li>
+      <p><a href="#news">News</a></p>
+    </li>
+
+    <li>
+      <p><a href="#publications">Publications</a></p>
+    </li>
+
+    <!-- <li>
+      <p><a href="#diss">Dissertations</a></p>
+    </li> -->
+
+    <!-- <li>
+      <p><a href="#book">Chapters</a></p>
+    </li> -->
+
+     <!-- <li>
+      <p><a href="#inthenews">Press</a></p>
+    </li> -->
+
+   
+
+    <!--<li>
+      <p><a href="#videos">Code</a></p>
+    </li>-->
+
+    <!-- <li>
+      <p><a href="#talks">Talks</a></p>
+    </li> -->
+
+    <!-- <li>
+      <p><a href="#misc">TRs</a></p>
+    </li> -->
+
+    <!-- <li>
+      <p><a href="#teaching">Teaching</a></p>
+    </li> -->
+	
+	<!--<li>
+      <p><a href="#students">Students</a></p>
+    </li>-->
+
+    <!-- <li>
+      <p><a href="#tpc">Community</a></p>
+    </li> -->
+
+    <!-- <li>
+      <p><a href="#projects">Projects</a></p>
+    </li> -->
+    
+
+
+  </ul>
+
 
 # Matthew Nance~Hall
 ### PhD Candidate, University of Oregon, Computer and Information Science. Drummer and Networking Person

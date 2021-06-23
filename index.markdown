@@ -3,11 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Matthew Nance\u00A0Hall
+title: Matthew Nance~Hall
 ---
 
 
-# Matthew Nance\u00A0Hall
+# Matthew Nance~Hall
 ### PhD Candidate, University of Oregon, Computer and Information Science. Drummer and Networking Person
 
 ## About
@@ -20,7 +20,7 @@ I’m a PhD candidate in the Oregon Networking Research Group at the University 
 #### 2021
 
 A Survey of Reconfigurable Optical Networks
-Matthew Nance\u00A0Hall, Klaus-Tycho Foerster, Stefan Schmid, and Ramakrishnan Durairajan
+Matthew Nance~Hall, Klaus-Tycho Foerster, Stefan Schmid, and Ramakrishnan Durairajan
 In Elsevier Optical Switching and Networking (OSN), 41 (2021) 100621.
 
 [PAPER]
@@ -29,27 +29,27 @@ In Elsevier Optical Switching and Networking (OSN), 41 (2021) 100621.
 
 Stream Processing for Optical Network Monitoring with
 Streaming Telemetry and Video Analytics
-Jesse E. Simsarian, Matthew Nance\u00A0Hall, Gurudutt Hosangadi, Jurgen Gripp, Wolfgang Van Raemdonck, Jiakai Yu, and Tod Sizer
+Jesse E. Simsarian, Matthew Nance~Hall, Gurudutt Hosangadi, Jurgen Gripp, Wolfgang Van Raemdonck, Jiakai Yu, and Tod Sizer
 In Proceedings of 46th European Conference on Optical Communication (ECOC ’20), Brussels, Belgium, December 2020.
 
 [PAPER]
 
 Bridging the Optical-Packet Network Chasm via Secure Enclaves (Extended abstract)
-Matthew Nance\u00A0Hall and Ramakrishnan Durairajan
+Matthew Nance~Hall and Ramakrishnan Durairajan
 In Workshop on Optical Systems Design (OptSys’20)
 co-located with ACM SIGCOMM’20, New York, USA, August 2020.
 
 [SLIDES]
 
 Fighting Fire with Light: Tackling Extreme Terabit DDoS Using Programmable Optics
-Matthew Nance\u00A0Hall, Guyue Liu, Ramakrishnan Durairajan, and Vyas Sekar
+Matthew Nance~Hall, Guyue Liu, Ramakrishnan Durairajan, and Vyas Sekar
 In Proceedings of 1st Workshop on Secure and Programmable Network Infrastructure (SPIN’20)
 co-located with ACM SIGCOMM’20, New York, USA, August 2020.
 
 [PAPER][SLIDES]
 
 Characteristics of Metro Fiber Deployments in the US
-Sathiya Kumaran Mani, Matthew Nance\u00A0Hall, Ramakrishnan Durairajan, and Paul Barford
+Sathiya Kumaran Mani, Matthew Nance~Hall, Ramakrishnan Durairajan, and Paul Barford
 In Proceedings of Network Traffic Measurement and Analysis (TMA’20), Berlin, Germany, June 2020.
 
 [Acceptance rate of 33%]

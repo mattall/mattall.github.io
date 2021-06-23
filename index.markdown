@@ -48,14 +48,11 @@ I’m a PhD candidate in the Oregon Networking Research Group at the University 
 # Publications
 
 ## 2021
-<ul>
-<li>
-  **A Survey of Reconfigurable Optical Networks**\
-  **Matthew Nance Hall**, Klaus-Tycho Foerster, Stefan Schmid, and Ramakrishnan Durairajan\
-  In *Elsevier Optical Switching and Networking* (OSN), 41 (2021) 100621.\
-  [PAPER]
-  </li>
-<ul>
+
+**A Survey of Reconfigurable Optical Networks**\
+**Matthew Nance Hall**, Klaus-Tycho Foerster, Stefan Schmid, and Ramakrishnan Durairajan\
+In *Elsevier Optical Switching and Networking* (OSN), 41 (2021) 100621.\
+[PAPER]
 
 ## 2020
 

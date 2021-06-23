@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Matthew\ Nance Hall
+title: Matthew Nance Hall
 ---
   <table summary="Address and Photo of Matthew Nance Hall" class=
   "titlematter">

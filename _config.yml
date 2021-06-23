@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Matthew Nance Hall
+title: Matthew {Nance\u00A0Hall}
 email: mhall at cs * uoregon * edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Matthew Nance Hall is a PhD candidate at the University of Oregon. 
+  Matthew Nance\u00A0Hall is a PhD candidate at the University of Oregon. 
   He is working with Prof. Ram Durairajan on reconfigurable optical networks.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,6 +32,7 @@ github_username:  mattall
 theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
+github: [metadata]
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -13,7 +13,7 @@ title: Matthew Nance Hall
          
         </address> -->
         
-        <h1>Matthew Nance</h1>
+        <h1>Matthew Nance Hall</h1>
 
         <address>
 		  <a href="http://onrg.gitlab.io">Oregon Networking Research Group</a><br>

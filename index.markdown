@@ -48,11 +48,14 @@ I’m a PhD candidate in the Oregon Networking Research Group at the University 
 # Publications
 
 ## 2021
-
-**A Survey of Reconfigurable Optical Networks**
-**Matthew Nance Hall**, Klaus-Tycho Foerster, Stefan Schmid, and Ramakrishnan Durairajan
-In *Elsevier Optical Switching and Networking* (OSN), 41 (2021) 100621.
-[PAPER]
+<ul>
+<li>
+  **A Survey of Reconfigurable Optical Networks**
+  **Matthew Nance Hall**, Klaus-Tycho Foerster, Stefan Schmid, and Ramakrishnan Durairajan
+  In *Elsevier Optical Switching and Networking* (OSN), 41 (2021) 100621.
+  [PAPER]
+  </li>
+<ul>
 
 ## 2020
 
@@ -69,7 +72,6 @@ In *Workshop on Optical Systems* (OptSys’20) co-located with ACM SIGCOMM’20,
 **Fighting Fire with Light: Tackling Extreme Terabit DDoS Using Programmable Optics**
 **Matthew Nance Hall**, Guyue Liu, Ramakrishnan Durairajan, and Vyas Sekar
 In Proceedings of *1st Workshop on Secure and Programmable Network Infrastructure* (SPIN’20) co-located with ACM SIGCOMM’20, New York, USA, August 2020.
-
 [PAPER][SLIDES]
 
 **Characteristics of Metro Fiber Deployments in the US**

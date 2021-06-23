@@ -9,9 +9,6 @@ title: Matthew Nance Hall
   "titlematter">
     <tr>
       <td style="padding-right: 4em">
-        <!-- <address>
-         
-        </address> -->
         
         <h1>Matthew Nance Hall</h1>
 
@@ -46,7 +43,7 @@ title: Matthew Nance Hall
 ## About
 (This site is currently under construction.) 
 
-I’m a PhD candidate in the Oregon Networking Research Group at the University of Oregon. I work with Prof. Ramakrishnan Durairajan on novel frameworks for reconfigurable optical networks and applications thereof. --> -->
+I’m a PhD candidate in the Oregon Networking Research Group at the University of Oregon. I work with Prof. Ramakrishnan Durairajan on novel frameworks for reconfigurable optical networks and applications thereof. --> 
 
 # Publications
 

@@ -2,8 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
+title: Architect Theme by Jason Long
 ---
+
 
 # Matthew Nance Hall
 ### PhD Candidate, University of Oregon, Computer and Information Science. Drummer and Networking Person

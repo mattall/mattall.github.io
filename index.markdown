@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Matthew Nance~Hall
+title: Matthew Nance Hall
 ---
-
   <table summary="Address and Photo of Matthew Nance Hall" class=
   "titlematter">
     <tr>
@@ -40,6 +39,9 @@ title: Matthew Nance~Hall
     </tr>
   </table>
 
+
+
+<!-- 
   <ul class="navi" title="in-site navigation">
     <li>
       <p><a href="#news">News</a></p>
@@ -96,20 +98,20 @@ title: Matthew Nance~Hall
   </ul>
 
 
-# Matthew Nance~Hall
+# Matthew Nance Hall
 ### PhD Candidate, University of Oregon, Computer and Information Science. Drummer and Networking Person
 
 ## About
 (This site is currently under construction.) 
 
-I’m a PhD candidate in the Oregon Networking Research Group at the University of Oregon. I work with Prof. Ramakrishnan Durairajan on novel frameworks for reconfigurable optical networks and applications thereof.
+I’m a PhD candidate in the Oregon Networking Research Group at the University of Oregon. I work with Prof. Ramakrishnan Durairajan on novel frameworks for reconfigurable optical networks and applications thereof. -->
 
 ## Publications
 
 #### 2021
 
 A Survey of Reconfigurable Optical Networks
-Matthew Nance~Hall, Klaus-Tycho Foerster, Stefan Schmid, and Ramakrishnan Durairajan
+Matthew Nance Hall, Klaus-Tycho Foerster, Stefan Schmid, and Ramakrishnan Durairajan
 In Elsevier Optical Switching and Networking (OSN), 41 (2021) 100621.
 
 [PAPER]
@@ -118,27 +120,27 @@ In Elsevier Optical Switching and Networking (OSN), 41 (2021) 100621.
 
 Stream Processing for Optical Network Monitoring with
 Streaming Telemetry and Video Analytics
-Jesse E. Simsarian, Matthew Nance~Hall, Gurudutt Hosangadi, Jurgen Gripp, Wolfgang Van Raemdonck, Jiakai Yu, and Tod Sizer
+Jesse E. Simsarian, Matthew Nance Hall, Gurudutt Hosangadi, Jurgen Gripp, Wolfgang Van Raemdonck, Jiakai Yu, and Tod Sizer
 In Proceedings of 46th European Conference on Optical Communication (ECOC ’20), Brussels, Belgium, December 2020.
 
 [PAPER]
 
 Bridging the Optical-Packet Network Chasm via Secure Enclaves (Extended abstract)
-Matthew Nance~Hall and Ramakrishnan Durairajan
+Matthew Nance Hall and Ramakrishnan Durairajan
 In Workshop on Optical Systems Design (OptSys’20)
 co-located with ACM SIGCOMM’20, New York, USA, August 2020.
 
 [SLIDES]
 
 Fighting Fire with Light: Tackling Extreme Terabit DDoS Using Programmable Optics
-Matthew Nance~Hall, Guyue Liu, Ramakrishnan Durairajan, and Vyas Sekar
+Matthew Nance Hall, Guyue Liu, Ramakrishnan Durairajan, and Vyas Sekar
 In Proceedings of 1st Workshop on Secure and Programmable Network Infrastructure (SPIN’20)
 co-located with ACM SIGCOMM’20, New York, USA, August 2020.
 
 [PAPER][SLIDES]
 
 Characteristics of Metro Fiber Deployments in the US
-Sathiya Kumaran Mani, Matthew Nance~Hall, Ramakrishnan Durairajan, and Paul Barford
+Sathiya Kumaran Mani, Matthew Nance Hall, Ramakrishnan Durairajan, and Paul Barford
 In Proceedings of Network Traffic Measurement and Analysis (TMA’20), Berlin, Germany, June 2020.
 
 [Acceptance rate of 33%]

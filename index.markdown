@@ -30,8 +30,8 @@ title: Matthew Nance Hall
         </address>
       </td>
 
-      <td valign="middle" align="left"><img height="180" width=
-      "256" alt="Matthew Nance Hall" src=
+      <td valign="middle" align="left"><img height="200" width=
+      "200" alt="Matthew Nance Hall" src=
       "portait.jpg"></td>
     </tr>
   </table>

@@ -91,7 +91,7 @@ In Proceedings of *USENIX NSDI’18*, Renton, WA, USA, April 2018.\
 
 ## 2017
 
-**High-performance supercomputing on a budget**
+**High-performance supercomputing on a budget**\
 **Matthew Hall**, Canyon Robins, Ken Owens, Jacob Nowatzke, Tim Lauck, and Laurel E. Smith.\
 In Proceedings of *Journal of Computing Sciences in Colleges* 32, no. 4 (2017): 86-92.\
 [PAPER]

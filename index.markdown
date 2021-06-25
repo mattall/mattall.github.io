@@ -52,7 +52,7 @@ I’m a PhD candidate in the Oregon Networking Research Group at the University 
 **Are WANs Ready for Optical Topology Programming?**\
 **Matthew Nance Hall**, Paul Barford, Klaus-Tycho Foerster, Manya Ghobadi, William Jensen, Ramakrishnan Durairajan\
 In *3nd Workshop on Optical Systems* [(OptSys’21)](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html) co-located with [(ACM SIGCOMM’21)](https://conferences.sigcomm.org/sigcomm/2021/), Remote, August 2021.\
-[[PAPER]]({{site.baseurl}}/papers/OptSys_2021_TP.pdf)
+[[PAPER]]({{site.baseurl}}/)
 
 
 **A Survey of Reconfigurable Optical Networks**\

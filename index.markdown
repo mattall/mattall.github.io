@@ -48,10 +48,15 @@ I’m a PhD candidate in the Oregon Networking Research Group at the University 
 # Publications
 
 ## 2021
+**Demonstration of Cloud-Based Streaming Telemetry Processing for Optical Network Monitoring**\
+Jesse E. Simsarian, Gurudutt Hosangadi, Wolfgang Van Raemdonck, Jurgen Gripp, **Matthew Nance Hall**, Jiakai Yu, Theodore Sizer \
+(To appear) In proceedings of *47th European Conference on Optical Communication* [(ECOC’21)](https://www.ecoc2021.org/), Bordeaux, France, September 2021.\
+[[PAPER]]({{site.baseurl}}/)
+
 
 **Are WANs Ready for Optical Topology Programming?**\
 **Matthew Nance Hall**, Paul Barford, Klaus-Tycho Foerster, Manya Ghobadi, William Jensen, Ramakrishnan Durairajan\
-In *3nd Workshop on Optical Systems* [(OptSys’21)](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html) co-located with [(ACM SIGCOMM’21)](https://conferences.sigcomm.org/sigcomm/2021/), Remote, August 2021.\
+(To appear) In proceedings of *3nd Workshop on Optical Systems* [(OptSys’21)](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html) co-located with [(ACM SIGCOMM’21)](https://conferences.sigcomm.org/sigcomm/2021/), Remote, August 2021.\
 [[PAPER]]({{site.baseurl}}/)
 
 

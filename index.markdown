@@ -57,7 +57,7 @@ Jesse E. Simsarian, Gurudutt Hosangadi, Wolfgang Van Raemdonck, Jurgen Gripp, **
 **Are WANs Ready for Optical Topology Programming?**\
 **Matthew Nance Hall**, Paul Barford, Klaus-Tycho Foerster, Manya Ghobadi, William Jensen, Ramakrishnan Durairajan\
 (To appear) In proceedings of *3nd Workshop on Optical Systems* [(OptSys’21)](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html) co-located with [(ACM SIGCOMM’21)](https://conferences.sigcomm.org/sigcomm/2021/), Remote, August 2021.\
-[[PAPER]]({{site.baseurl}}/papers/OptSys_2021_TP.pdf)
+[[PAPER]]({{site.baseurl}}/papers/OptSys_2021_TP.pdf) [[SLIDES]]({{site.baseurl}}/slides/OptSys_2021_TP.pdf) [[VIDEO]](https://www.youtube.com/watch?v=tuYUyAo0RBM)
 
 
 **A Survey of Reconfigurable Optical Networks**\

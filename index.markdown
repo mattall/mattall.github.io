@@ -5,37 +5,41 @@
 layout: default
 title: Matthew Nance Hall
 ---
-  <table summary="Address and Photo of Matthew Nance Hall" class=
-  "titlematter">
-    <tr>
-      <td style="padding-right: 4em">
-        
-        <h1>Matthew <br> Nance Hall</h1>
-
-        <address>
-		  <a href="http://onrg.gitlab.io">Oregon Networking Research Group</a><br>
-          <a href="http://cs.uoregon.edu">Computer and Information Science</a><br>
-          <a href="https://uoregon.edu">University of Oregon</a><br>
+  
+  
+  <style type = text/css>
+    .wrap {display: flex;}
+    .one {width: 30%; border: 1px solid green;}
+    .two {width: 70%; border: 1px solid blue;}
+    @media (max-width: 767px) {.wrap {flex-direction: column-reverse;} .one, .two {width: auto;}}
+  </style>
+  
+  <h1>Matthew <br> Nance Hall</h1>
+  <div class="wrap">
+   <div class="one">
+   <address>
+	  <a href="http://onrg.gitlab.io">Oregon Networking Research Group</a><br>
+    <a href="http://cs.uoregon.edu">Computer and Information Science</a><br>
+    <a href="https://uoregon.edu">University of Oregon</a><br>
 		  Deschutes Hall<br>
-          1477 E 13th Ave<br>
-          Eugene, Oregon<br>
-          USA<br>
-        </address>
+      1477 E 13th Ave<br>
+      Eugene, Oregon<br>
+      USA<br>
+   </address>
 
-        <address>
-          email: mhall@cs.uoregon.edu<br>
-          <a href="https://scholar.google.com/citations?hl=en&user=ED-UBG8AAAAJ">Google Scholar</a>,
-          <a href="https://dblp.org/pid/270/6076.html">DBLP</a>,
-		  <a href="https://orcid.org/0000-0002-0802-2920">ORCID</a>, 
-        </address>
-      </td>
-
-      <td valign="middle" align="left"><img height="200" width=
+   <address>
+    email: mhall@cs.uoregon.edu<br>
+    <a href="https://scholar.google.com/citations?hl=en&user=ED-UBG8AAAAJ">Google Scholar</a>,
+    <a href="https://dblp.org/pid/270/6076.html">DBLP</a>,
+	  <a href="https://orcid.org/0000-0002-0802-2920">ORCID</a>, 
+    </address>
+   </div>
+   <div>
+   <img height="200" width=
       "200" alt="Matthew Nance Hall" src=
       "portait.jpg" style="height: auto; width: auto\9;"></td>
-    </tr>
-  </table>
-
+    </div>
+  </div>
 
 <!-- # Matthew Nance Hall
 ### PhD Candidate, University of Oregon, Computer and Information Science. Drummer and Networking Person

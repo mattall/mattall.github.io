@@ -37,7 +37,7 @@ title: Matthew Nance Hall
    <div>
    <img height="200" width=
       "200" alt="Matthew Nance Hall" src=
-      "portait.jpg" style="height: auto; width: auto\9;"></td>
+      "portait.jpg" style="height: auto; width: auto\9;">
     </div>
   </div>
 

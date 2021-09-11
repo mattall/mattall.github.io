@@ -32,7 +32,7 @@ title: Matthew Nance Hall
 
       <td valign="middle" align="left"><img height="200" width=
       "200" alt="Matthew Nance Hall" src=
-      "portait.jpg"></td>
+      "portait.jpg" style="height: auto; width: auto\9;"></td>
     </tr>
   </table>
 

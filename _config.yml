@@ -21,7 +21,25 @@
 title: Matthew <br> Nance Hall
 email: mhall at cs * uoregon * edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Site currently under construction.
+     <img height="200" width=
+      "200" alt="Matthew Nance Hall" src=
+      "portait.jpg" style="height: auto; width: auto\9;">
+    <address>
+	  <a href="http://onrg.gitlab.io">Oregon Networking Research Group</a><br>
+    <a href="http://cs.uoregon.edu">Computer and Information Science</a><br>
+    <a href="https://uoregon.edu">University of Oregon</a><br>
+		  Deschutes Hall<br>
+      1477 E 13th Ave<br>
+      Eugene, Oregon<br>
+      USA<br>
+   </address>
+   <address>
+    email: mhall@cs.uoregon.edu<br>
+    <a href="https://scholar.google.com/citations?hl=en&user=ED-UBG8AAAAJ">Google Scholar</a>,
+    <a href="https://dblp.org/pid/270/6076.html">DBLP</a>,
+	  <a href="https://orcid.org/0000-0002-0802-2920">ORCID</a>
+    </address>
+   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mattall.gitlab.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: M_ttall

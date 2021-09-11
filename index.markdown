@@ -15,7 +15,7 @@ title: Matthew Nance Hall
         <address>
 		  <a href="http://onrg.gitlab.io">Oregon Networking Research Group</a><br>
           <a href="http://cs.uoregon.edu">Computer and Information Science</a><br>
-          <a href="https://univie.ac.at">University of Oregon</a><br>
+          <a href="https://uoregon.edu">University of Oregon</a><br>
 		  Deschutes Hall<br>
           1477 E 13th Ave<br>
           Eugene, Oregon<br>

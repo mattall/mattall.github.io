@@ -7,11 +7,11 @@ title: Matthew Nance Hall
 ---
   
   
-  <style type = text/css>
+  <style type=text/css>
     .wrap {display: flex;}
     .one {width: 30%; border: 1px solid green;}
     .two {width: 70%; border: 1px solid blue;}
-    @media (max-width: 767px) {.wrap {flex-direction: column-reverse;} .one, .two {width: auto;}}
+    @media (max-width: 767px) {.wrap {flex-direction: column-reverse;} .two, .one {width: auto;}}
   </style>
   
   <h1>Matthew <br> Nance Hall</h1>

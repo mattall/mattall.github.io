@@ -11,7 +11,7 @@ title: Matthew Nance-Hall
       "portait.jpg" style="height: auto; width: auto\9;">
   <address>
 	  <a href="http://onrg.gitlab.io">Oregon Networking Research Group</a><br>
-    <a href="http://cs.uoregon.edu">Computer and Information Science</a><br>
+    <a href="https://cas.uoregon.edu/computer-science">Computer Science</a><br>
     <a href="https://uoregon.edu">University of Oregon</a><br>
 		  Deschutes Hall<br>
       1477 E 13th Ave<br>
@@ -38,7 +38,7 @@ I’m a PhD candidate in the Oregon Networking Research Group at the University 
 ## 2021
 **Demonstration of Cloud-Based Streaming Telemetry Processing for Optical Network Monitoring**\
 Jesse E. Simsarian, Gurudutt Hosangadi, Wolfgang Van Raemdonck, Jurgen Gripp, **Matthew Nance-Hall**, Jiakai Yu, Theodore Sizer \
-(To appear) In proceedings of *47th European Conference on Optical Communication* [(ECOC’21)](https://www.ecoc2021.org/), Bordeaux, France, September 2021.\
+In proceedings of *47th European Conference on Optical Communication* [(ECOC’21)](https://www.ecoc2021.org/), Bordeaux, France, September 2021.\
 [[PAPER]]({{site.baseurl}}/)
 
 

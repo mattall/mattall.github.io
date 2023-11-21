@@ -3,20 +3,16 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Matthew Nance-Hall
+title: Matthew Nance Hall
 ---
   
-  <img height="200" width=
-<<<<<<< HEAD
-      "200" alt="Matthew Nance Hall" src=
-      "mnh.jpg" style="height: auto; width: auto\9;">
-=======
-      "200" alt="Matthew Nance-Hall" src=
-      "portait.jpg" style="height: auto; width: auto\9;">
->>>>>>> fa7ee8906bf5ad7c046fc1462aa1dd7f256fc4ad
+  <img height="200" 
+        alt="Matthew Nance-Hall" 
+        src="mnh.jpg"
+        style="height: auto; width: auto\9;">
   <address>
 	  <a href="http://onrg.gitlab.io">Oregon Networking Research Group</a><br>
-    <a href="https://cas.uoregon.edu/computer-science">Computer Science</a><br>
+    <a href="http://cs.uoregon.edu">Computer and Information Science</a><br>
     <a href="https://uoregon.edu">University of Oregon</a><br>
 		  Deschutes Hall<br>
       1477 E 13th Ave<br>
@@ -25,13 +21,12 @@ title: Matthew Nance-Hall
   </address>
   <address>
     email: mhall@cs.uoregon.edu<br>
-    <a href="{{site.baseurl}}/CV.pdf">Curriculum vitae</a>,
     <a href="https://scholar.google.com/citations?hl=en&user=ED-UBG8AAAAJ">Google Scholar</a>,
     <a href="https://dblp.org/pid/270/6076.html">DBLP</a>,
 	  <a href="https://orcid.org/0000-0002-0802-2920">ORCID</a>
   </address>
 
-<!-- # Matthew Nance-Hall
+<!-- # Matthew Nance Hall
 ### PhD Candidate, University of Oregon, Computer and Information Science. Drummer and Networking Person
 
 ## About
@@ -45,7 +40,7 @@ I’m a PhD candidate in the Oregon Networking Research Group at the University 
 **Improving Scalability in Traffic Engineering via Optical Topology Programming**\
 **Matthew Nance-Hall**,  \
 (To appear) In *IEEE Transactions on Network and Service Management* [(TNSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028), November 2023.\
-[[PAPER]]({{site.baseurl}}/TNSM_2023_GreyLambda.pdf) [[CODE]](https://github.com/mattall/topology-programming)
+[[PAPER]]({{site.baseurl}}/TNSM_2023_GreyLambda.pdf) [[PAPER]]({{site.baseurl}}/TNSM_2023_GreyLambda.pdf)
 
 ## 2021
 **Demonstration of Cloud-Based Streaming Telemetry Processing for Optical Network Monitoring**\
@@ -55,35 +50,35 @@ In proceedings of *47th European Conference on Optical Communication* [(ECOC’2
 
 
 **Are WANs Ready for Optical Topology Programming?**\
-**Matthew Nance-Hall**, Paul Barford, Klaus-Tycho Foerster, Manya Ghobadi, William Jensen, Ramakrishnan Durairajan\
+**Matthew Nance Hall**, Paul Barford, Klaus-Tycho Foerster, Manya Ghobadi, William Jensen, Ramakrishnan Durairajan\
 In proceedings of *3nd Workshop on Optical Systems* [(OptSys’21)](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html) co-located with [(ACM SIGCOMM’21)](https://conferences.sigcomm.org/sigcomm/2021/), Remote, August 2021.\
 [[PAPER]]({{site.baseurl}}/papers/OptSys_2021_TP.pdf) [[SLIDES]]({{site.baseurl}}/slides/OptSys_2021_TP.pdf) [[VIDEO]](https://www.youtube.com/watch?v=tuYUyAo0RBM)
 
 
 **A Survey of Reconfigurable Optical Networks**\
-**Matthew Nance-Hall**, Klaus-Tycho Foerster, Stefan Schmid, and Ramakrishnan Durairajan\
+**Matthew Nance Hall**, Klaus-Tycho Foerster, Stefan Schmid, and Ramakrishnan Durairajan\
 In *Elsevier Optical Switching and Networking* [(OSN)](https://www.journals.elsevier.com/optical-switching-and-networking), 41 (2021) 100621.\
 [[PAPER]]({{site.baseurl}}/papers/OSN_2021_ReNetsSurvey.pdf)
 
 ## 2020
 
 **Stream Processing for Optical Network Monitoring with Streaming Telemetry and Video Analytics**\
-Jesse E. Simsarian, **Matthew Nance-Hall**, Gurudutt Hosangadi, Jurgen Gripp, Wolfgang Van Raemdonck, Jiakai Yu, and Tod Sizer\
+Jesse E. Simsarian, **Matthew Nance Hall**, Gurudutt Hosangadi, Jurgen Gripp, Wolfgang Van Raemdonck, Jiakai Yu, and Tod Sizer\
 In Proceedings of *46th European Conference on Optical Communication* [(ECOC’20)](https://ecoco2020.org/), Brussels, Belgium, December 2020.\
 [[PAPER]\(external\)](https://ieeexplore.ieee.org/abstract/document/9333169)
 
 **Bridging the Optical-Packet Network Chasm via Secure Enclaves** (Extended abstract)\
-**Matthew Nance-Hall** and Ramakrishnan Durairajan\
+**Matthew Nance Hall** and Ramakrishnan Durairajan\
 In *2nd Workshop on Optical Systems* [(OptSys’20)](https://ecoco2020.org/) co-located with [ACM SIGCOMM’20](https://conferences.sigcomm.org/sigcomm/2020/), New York, USA, August 2020.\
 [[SLIDES]]({{site.baseurl}}/slides/OptSys2020.pdf)
 
 **Fighting Fire with Light: Tackling Extreme Terabit DDoS Using Programmable Optics**\
-**Matthew Nance-Hall**, Guyue Liu, Ramakrishnan Durairajan, and Vyas Sekar\
+**Matthew Nance Hall**, Guyue Liu, Ramakrishnan Durairajan, and Vyas Sekar\
 In Proceedings of *1st Workshop on Secure and Programmable Network Infrastructure* [(SPIN’20)](https://conferences.sigcomm.org/sigcomm/2020/workshop-spin.html) co-located with [ACM SIGCOMM’20](https://conferences.sigcomm.org/sigcomm/2020/), New York, USA, August 2020.\
 [[PAPER]]({{site.baseurl}}/papers/SPIN20_DDoS_Defense.pdf)[[SLIDES]]({{site.baseurl}}/slides/Fighting_Fire_with_Light.pdf)
 
 **Characteristics of Metro Fiber Deployments in the US**\
-Sathiya Kumaran Mani, **Matthew Nance-Hall**, Ramakrishnan Durairajan, and Paul Barford\
+Sathiya Kumaran Mani, **Matthew Nance Hall**, Ramakrishnan Durairajan, and Paul Barford\
 In Proceedings of *Network Traffic Measurement and Analysis* [(TMA’20)](https://tma.ifip.org/2020/), Berlin, Germany, June 2020.\
 [[PAPER]]({{site.baseurl}}/papers/TMA2020-metroFiber.pdf)[[SLIDES]]({{site.baseurl}}/slides/TMA2020-metroFiber-slides.pdf)
 

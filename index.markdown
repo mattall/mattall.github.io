@@ -40,7 +40,7 @@ I’m a PhD candidate in the Oregon Networking Research Group at the University 
 **Improving Scalability in Traffic Engineering via Optical Topology Programming**\
 **Matthew Nance-Hall**, Paul Barford, Klaus-Tycho Foerster, Ramakrishnan Durairajan \
 (To appear) In *IEEE Transactions on Network and Service Management* [(TNSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028), November 2023.\
-[[PAPER]]({{site.baseurl}}/TNSM_2023_GreyLambda.pdf) [[CODE]](https://github.com/mattall/topology-programming)
+[[PAPER]]({{site.baseurl}}/papers/TNSM_2023_GreyLambda.pdf) [[CODE]](https://github.com/mattall/topology-programming)
 
 ## 2021
 **Demonstration of Cloud-Based Streaming Telemetry Processing for Optical Network Monitoring**\

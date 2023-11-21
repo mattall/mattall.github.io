@@ -8,7 +8,7 @@ title: Matthew Nance Hall
   
   <img height="200" width=
       "200" alt="Matthew Nance Hall" src=
-      "portait.jpg" style="height: auto; width: auto\9;">
+      "mnh.jpg" style="height: auto; width: auto\9;">
   <address>
 	  <a href="http://onrg.gitlab.io">Oregon Networking Research Group</a><br>
     <a href="http://cs.uoregon.edu">Computer and Information Science</a><br>
@@ -35,11 +35,17 @@ I’m a PhD candidate in the Oregon Networking Research Group at the University 
 
 # Publications
 
+## 2023
+**Improving Scalability in Traffic Engineering via Optical Topology Programming**\
+**Matthew Nance-Hall**,  \
+(To appear) In *IEEE Transactions on Network and Service Management* [(TNSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028), November 2023.\
+[[PAPER]]({{site.baseurl}}/TNSM_2023_GreyLambda.pdf) [[CODE]](https://github.com/mattall/topology-programming)
+
 ## 2021
 **Demonstration of Cloud-Based Streaming Telemetry Processing for Optical Network Monitoring**\
 Jesse E. Simsarian, Gurudutt Hosangadi, Wolfgang Van Raemdonck, Jurgen Gripp, **Matthew Nance Hall**, Jiakai Yu, Theodore Sizer \
-(To appear) In proceedings of *47th European Conference on Optical Communication* [(ECOC’21)](https://www.ecoc2021.org/), Bordeaux, France, September 2021.\
-[[PAPER]]({{site.baseurl}}/)
+In proceedings of *47th European Conference on Optical Communication* [(ECOC’21)](https://www.ecoc2021.org/), Bordeaux, France, September 2021.\
+[[PAPER]]((https://ieeexplore.ieee.org/abstract/document/9605813))
 
 
 **Are WANs Ready for Optical Topology Programming?**\

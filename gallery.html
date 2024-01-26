@@ -1,0 +1,459 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        h1, h2, p, button {
+            text-align: center;
+        }
+        .header {
+            background-color: #f1f1f1;
+            padding: 20px;
+            text-align: center;
+        }
+        .header button {
+            padding: 15px;
+            margin: 5px;
+            font-size: 16px;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: space-between;
+        }
+        .h2 {
+            text-align: center; 
+            display: inline-block; 
+            margin-right: 30px; 
+        }
+        .row {
+            width: 100%; 
+            display: flex; 
+            flex-wrap: wrap; 
+            justify-content: center; 
+            align-items: center;                         
+            font-weight: bold; 
+        }
+        .row_header {            
+            width: 100%; 
+            display: flex; 
+            flex-wrap: wrap;             
+            justify-content: flex-start;                                    
+            font-weight: bold;             
+        }        
+        .row_header img {
+            display: flex;            
+            max-height: 40px;            
+            width: auto;
+            margin-left:  0px;             
+            margin: auto;
+            margin-left: 10px;
+        }
+        .row_header h2 {
+            display: flex;                                    
+            max-height: 40px;            
+            margin: auto;
+            margin-right: 0px;             
+        }
+
+        .column {
+            flex: 1 1 calc(30% - 20px);
+            max-width: calc(30% - 20px);
+            margin: 10px;
+        }
+        .column h3{
+            text-align: center;
+            margin-bottom: 0px;
+        }
+
+        .image-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+    <script>
+        function showVar(varName) {
+            var headers = document.querySelectorAll('.var-header');
+            for (var i = 0; i < headers.length; i++) {
+                headers[i].style.display = 'none';
+            }
+            var images = document.querySelectorAll('.var-images');
+            for (var i = 0; i < images.length; i++) {
+                images[i].style.display = 'none';
+            }
+            document.getElementById(varName + '-header').style.display = 'block';
+            document.getElementById(varName).style.display = 'block';
+        }
+    </script>
+</head>
+<body>
+    <div class="header">
+<button onclick='showVar("Total Solutions")'>Show Total Solutions</button>
+<button onclick='showVar("Optimization Time")'>Show Optimization Time</button>
+<button onclick='showVar("Doppler Min MLU")'>Show Doppler Min MLU</button>
+
+    </div>
+<div id='Total Solutions-header' class='var-header' style='display: block;'>
+<h1>Total Solutions</h1>
+<div class='gallery'>
+<div class='row'>
+  <div class='row_header'>
+    <h2>Campus - conservative</h2>
+    <img src='img/doppler/Campus-conservative-0.5-Total_Solutions-legend.jpg' alt='Total Solutions legend'>
+  </div>
+</div>
+  <div class='row'>
+<div class='column'>
+    <h3> Time Limit: 0.5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-conservative-0.5-Total_Solutions.jpg' alt='Total Solutions'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 1 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-conservative-1-Total_Solutions.jpg' alt='Total Solutions'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-conservative-5-Total_Solutions.jpg' alt='Total Solutions'>
+    </div>
+</div>
+  </div>
+</div>
+<div class='gallery'>
+<div class='row'>
+  <div class='row_header'>
+    <h2>Campus - max</h2>
+    <img src='img/doppler/Campus-max-0.5-Total_Solutions-legend.jpg' alt='Total Solutions legend'>
+  </div>
+</div>
+  <div class='row'>
+<div class='column'>
+    <h3> Time Limit: 0.5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-max-0.5-Total_Solutions.jpg' alt='Total Solutions'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 1 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-max-1-Total_Solutions.jpg' alt='Total Solutions'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-max-5-Total_Solutions.jpg' alt='Total Solutions'>
+    </div>
+</div>
+  </div>
+</div>
+<div class='gallery'>
+<div class='row'>
+  <div class='row_header'>
+    <h2>Regional - conservative</h2>
+    <img src='img/doppler/Regional-conservative-0.5-Total_Solutions-legend.jpg' alt='Total Solutions legend'>
+  </div>
+</div>
+  <div class='row'>
+<div class='column'>
+    <h3> Time Limit: 0.5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-conservative-0.5-Total_Solutions.jpg' alt='Total Solutions'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 1 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-conservative-1-Total_Solutions.jpg' alt='Total Solutions'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-conservative-5-Total_Solutions.jpg' alt='Total Solutions'>
+    </div>
+</div>
+  </div>
+</div>
+<div class='gallery'>
+<div class='row'>
+  <div class='row_header'>
+    <h2>Regional - max</h2>
+    <img src='img/doppler/Regional-max-0.5-Total_Solutions-legend.jpg' alt='Total Solutions legend'>
+  </div>
+</div>
+  <div class='row'>
+<div class='column'>
+    <h3> Time Limit: 0.5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-max-0.5-Total_Solutions.jpg' alt='Total Solutions'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 1 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-max-1-Total_Solutions.jpg' alt='Total Solutions'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-max-5-Total_Solutions.jpg' alt='Total Solutions'>
+    </div>
+</div>
+  </div>
+</div>
+</div>
+<div id='Optimization Time-header' class='var-header' style='display: none;'>
+<h1>Optimization Time</h1>
+<div class='gallery'>
+<div class='row'>
+  <div class='row_header'>
+    <h2>Campus - conservative</h2>
+    <img src='img/doppler/Campus-conservative-0.5-Optimization_Time-legend.jpg' alt='Optimization Time legend'>
+  </div>
+</div>
+  <div class='row'>
+<div class='column'>
+    <h3> Time Limit: 0.5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-conservative-0.5-Optimization_Time.jpg' alt='Optimization Time'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 1 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-conservative-1-Optimization_Time.jpg' alt='Optimization Time'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-conservative-5-Optimization_Time.jpg' alt='Optimization Time'>
+    </div>
+</div>
+  </div>
+</div>
+<div class='gallery'>
+<div class='row'>
+  <div class='row_header'>
+    <h2>Campus - max</h2>
+    <img src='img/doppler/Campus-max-0.5-Optimization_Time-legend.jpg' alt='Optimization Time legend'>
+  </div>
+</div>
+  <div class='row'>
+<div class='column'>
+    <h3> Time Limit: 0.5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-max-0.5-Optimization_Time.jpg' alt='Optimization Time'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 1 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-max-1-Optimization_Time.jpg' alt='Optimization Time'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-max-5-Optimization_Time.jpg' alt='Optimization Time'>
+    </div>
+</div>
+  </div>
+</div>
+<div class='gallery'>
+<div class='row'>
+  <div class='row_header'>
+    <h2>Regional - conservative</h2>
+    <img src='img/doppler/Regional-conservative-0.5-Optimization_Time-legend.jpg' alt='Optimization Time legend'>
+  </div>
+</div>
+  <div class='row'>
+<div class='column'>
+    <h3> Time Limit: 0.5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-conservative-0.5-Optimization_Time.jpg' alt='Optimization Time'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 1 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-conservative-1-Optimization_Time.jpg' alt='Optimization Time'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-conservative-5-Optimization_Time.jpg' alt='Optimization Time'>
+    </div>
+</div>
+  </div>
+</div>
+<div class='gallery'>
+<div class='row'>
+  <div class='row_header'>
+    <h2>Regional - max</h2>
+    <img src='img/doppler/Regional-max-0.5-Optimization_Time-legend.jpg' alt='Optimization Time legend'>
+  </div>
+</div>
+  <div class='row'>
+<div class='column'>
+    <h3> Time Limit: 0.5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-max-0.5-Optimization_Time.jpg' alt='Optimization Time'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 1 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-max-1-Optimization_Time.jpg' alt='Optimization Time'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-max-5-Optimization_Time.jpg' alt='Optimization Time'>
+    </div>
+</div>
+  </div>
+</div>
+</div>
+<div id='Doppler Min MLU-header' class='var-header' style='display: none;'>
+<h1>Doppler Min MLU</h1>
+<div class='gallery'>
+<div class='row'>
+  <div class='row_header'>
+    <h2>Campus - conservative</h2>
+    <img src='img/doppler/Campus-conservative-0.5-Doppler_Min_MLU-legend.jpg' alt='Doppler Min MLU legend'>
+  </div>
+</div>
+  <div class='row'>
+<div class='column'>
+    <h3> Time Limit: 0.5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-conservative-0.5-Doppler_Min_MLU.jpg' alt='Doppler Min MLU'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 1 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-conservative-1-Doppler_Min_MLU.jpg' alt='Doppler Min MLU'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-conservative-5-Doppler_Min_MLU.jpg' alt='Doppler Min MLU'>
+    </div>
+</div>
+  </div>
+</div>
+<div class='gallery'>
+<div class='row'>
+  <div class='row_header'>
+    <h2>Campus - max</h2>
+    <img src='img/doppler/Campus-max-0.5-Doppler_Min_MLU-legend.jpg' alt='Doppler Min MLU legend'>
+  </div>
+</div>
+  <div class='row'>
+<div class='column'>
+    <h3> Time Limit: 0.5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-max-0.5-Doppler_Min_MLU.jpg' alt='Doppler Min MLU'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 1 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-max-1-Doppler_Min_MLU.jpg' alt='Doppler Min MLU'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Campus-max-5-Doppler_Min_MLU.jpg' alt='Doppler Min MLU'>
+    </div>
+</div>
+  </div>
+</div>
+<div class='gallery'>
+<div class='row'>
+  <div class='row_header'>
+    <h2>Regional - conservative</h2>
+    <img src='img/doppler/Regional-conservative-0.5-Doppler_Min_MLU-legend.jpg' alt='Doppler Min MLU legend'>
+  </div>
+</div>
+  <div class='row'>
+<div class='column'>
+    <h3> Time Limit: 0.5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-conservative-0.5-Doppler_Min_MLU.jpg' alt='Doppler Min MLU'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 1 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-conservative-1-Doppler_Min_MLU.jpg' alt='Doppler Min MLU'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-conservative-5-Doppler_Min_MLU.jpg' alt='Doppler Min MLU'>
+    </div>
+</div>
+  </div>
+</div>
+<div class='gallery'>
+<div class='row'>
+  <div class='row_header'>
+    <h2>Regional - max</h2>
+    <img src='img/doppler/Regional-max-0.5-Doppler_Min_MLU-legend.jpg' alt='Doppler Min MLU legend'>
+  </div>
+</div>
+  <div class='row'>
+<div class='column'>
+    <h3> Time Limit: 0.5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-max-0.5-Doppler_Min_MLU.jpg' alt='Doppler Min MLU'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 1 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-max-1-Doppler_Min_MLU.jpg' alt='Doppler Min MLU'>
+    </div>
+</div>
+<div class='column'>
+    <h3> Time Limit: 5 m </h3>
+    <div class='image-container'>
+        <img src='img/doppler/Regional-max-5-Doppler_Min_MLU.jpg' alt='Doppler Min MLU'>
+    </div>
+</div>
+  </div>
+</div>
+</div>
+
+    <script>
+        // Set "Total Solutions" as the default active var
+        showVar("Total Solutions");
+    </script>
+</body>
+</html>

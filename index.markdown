@@ -23,7 +23,7 @@ title: Matthew Nance Hall
     email: mhall@cs.uoregon.edu<br>
     <a href="https://scholar.google.com/citations?hl=en&user=ED-UBG8AAAAJ">Google Scholar</a>,
     <a href="https://dblp.org/pid/270/6076.html">DBLP</a>,
-	<a href="https://orcid.org/0000-0002-0802-2920">ORCID</a>
+	<a href="https://orcid.org/0000-0002-0802-2920">ORCID</a>,
     <a href="https://mattall.github.io/CV.pdf">CV</a>
   </address>
 

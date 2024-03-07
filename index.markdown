@@ -23,7 +23,8 @@ title: Matthew Nance Hall
     email: mhall@cs.uoregon.edu<br>
     <a href="https://scholar.google.com/citations?hl=en&user=ED-UBG8AAAAJ">Google Scholar</a>,
     <a href="https://dblp.org/pid/270/6076.html">DBLP</a>,
-	  <a href="https://orcid.org/0000-0002-0802-2920">ORCID</a>
+	<a href="https://orcid.org/0000-0002-0802-2920">ORCID</a>
+    <a href="https://mattall.github.io/CV.pdf">CV</a>
   </address>
 
 <!-- # Matthew Nance Hall
@@ -36,10 +37,15 @@ I’m a PhD candidate in the Oregon Networking Research Group at the University 
 
 # Publications
 
+## 2024
+**Analyzing the Benefits of Optical Topology Programming for Mitigating Link-flood DDoS Attacks**\
+**Matthew Nance-Hall**, Zaoxing Liu, Vyas Sekar, Ramakrishnan Durairajan \
+(to appear) In *IEEE Transactions on Dependable and Secure Computing* (TDSC), November 2023.\
+
 ## 2023
 **Improving Scalability in Traffic Engineering via Optical Topology Programming**\
 **Matthew Nance-Hall**, Paul Barford, Klaus-Tycho Foerster, Ramakrishnan Durairajan \
-(To appear) In *IEEE Transactions on Network and Service Management* [(TNSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028), November 2023.\
+In *IEEE Transactions on Network and Service Management* [(TNSM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028), November 2023.\
 [[PAPER]]({{site.baseurl}}/papers/TNSM_2023_GreyLambda.pdf) [[CODE]](https://github.com/mattall/topology-programming)
 
 ## 2021

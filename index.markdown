@@ -38,6 +38,13 @@ I’m a PhD candidate in the Oregon Networking Research Group at the University 
 # Publications
 
 ## 2024
+
+**Optical Topology Programming: Foundations, Measurements, and Applications**\
+**Matthew Henry Hall**\
+*University of Oregon Doctoral Dissertation*, 2024\
+[[Dissertation]]({{site.baseurl}}/papers/Dissertation.pdf) [[Slides]]({{site.baseurl}}/slides/Defense_slides.pdf)
+
+
 **Analyzing the Benefits of Optical Topology Programming for Mitigating Link-flood DDoS Attacks**\
 **Matthew Nance-Hall**, Zaoxing Liu, Vyas Sekar, Ramakrishnan Durairajan \
 (to appear) In *IEEE Transactions on Dependable and Secure Computing* (TDSC), 2024
